@@ -1,5 +1,5 @@
 # Atelier 1 — Deep Learning
-Asmaa Atouailaa — FST Tanger
+Asmaa Atouailaa
 
 This lab uses PyTorch MLPs for two tasks: predicting a stock price and identifying a machine failure type.
 
